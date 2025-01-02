@@ -5,4 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/guuguvb.git
 git push -u origin main
-warp://ml.sseinshow.ir:13345/?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#v1&&detour=warp://ml.sseinshow.ir:13345/?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#v2
+warp://ml.sseinshow.ir:13345?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#v1&&detour=warp://ml.sseinshow.ir:13345?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#v2
